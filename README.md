@@ -7,4 +7,4 @@ This repository contains the file names (titles only) of teacher policy document
 
 🔒 Note: This repository only includes file titles for academic review. Full policy texts are not redistributed.
 
-For inquiries or access to original documents, please contact the author.
+
